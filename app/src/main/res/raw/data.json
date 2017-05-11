@@ -1,0 +1,251 @@
+[
+  {
+    "subject": "职业",
+    "data": [
+      {
+        "pic": "ipage25",
+        "text": "画家",
+        "call": "page25_3cn",
+        "voice": "page25_4cn"
+      },
+      {
+        "pic": "ipage26",
+        "text": "舞蹈家",
+        "call": "page26_3cn",
+        "voice": "page26_4cn"
+      },
+      {
+        "pic": "ipage27",
+        "text": "医生",
+        "call": "page27_3cn",
+        "voice": "page27_4cn"
+      },
+      {
+        "pic": "ipage28",
+        "text": "教师",
+        "call": "page28_3cn",
+        "voice": "page28_4cn"
+      },
+      {
+        "pic": "ipage29",
+        "text": "学生",
+        "call": "page29_3cn",
+        "voice": "page29_4cn"
+      },
+      {
+        "pic": "ipage30",
+        "text": "消防员",
+        "call": "page30_3cn",
+        "voice": "page30_4cn"
+      },
+      {
+        "pic": "ipage31",
+        "text": "歌手",
+        "call": "page31_3cn",
+        "voice": "page31_4cn"
+      },
+      {
+        "pic": "ipage32",
+        "text": "厨师",
+        "call": "page32_3cn",
+        "voice": "page32_4cn"
+      },
+      {
+        "pic": "ipage33",
+        "text": "警察",
+        "call": "page33_3cn",
+        "voice": "page33_4cn"
+      },
+      {
+        "pic": "ipage34",
+        "text": "工人",
+        "call": "page34_3cn",
+        "voice": "page34_4cn"
+      },
+      {
+        "pic": "ipage35",
+        "text": "护士",
+        "call": "page35_3cn",
+        "voice": "page35_4cn"
+      },
+      {
+        "pic": "ipage36",
+        "text": "清洁工",
+        "call": "page36_3cn",
+        "voice": "page36_4cn"
+      },
+      {
+        "pic": "ipage37",
+        "text": "士兵",
+        "call": "page37_3cn",
+        "voice": "page37_4cn"
+      },
+      {
+        "pic": "ipage40",
+        "text": "魔术师",
+        "call": "page40_3cn",
+        "voice": "page40_4cn"
+      },
+      {
+        "pic": "ipage41",
+        "text": "宇航员",
+        "call": "page41_3cn",
+        "voice": "page41_4cn"
+      },
+      {
+        "pic": "ipage42",
+        "text": "小丑",
+        "call": "page42_3cn",
+        "voice": "page42_4cn"
+      },
+      {
+        "pic": "ipage43",
+        "text": "摄影师",
+        "call": "page43_3cn",
+        "voice": "page43_4cn"
+      },
+      {
+        "pic": "ipage44",
+        "text": "秘书",
+        "call": "page44_3cn",
+        "voice": "page44_4cn"
+      }
+    ]
+  },
+  {
+    "subject": "其他",
+    "data": [
+      {
+        "pic": "ipage11",
+        "text": "家人",
+        "call": "page11_3cn",
+        "voice": "page11_4cn"
+      },
+      {
+        "pic": "ipage12",
+        "text": "朋友",
+        "call": "page12_3cn",
+        "voice": "page12_4cn"
+      },
+      {
+        "pic": "ipage13",
+        "text": "同学",
+        "call": "page13_3cn",
+        "voice": "page13_4cn"
+      },
+      {
+        "pic": "ipage14",
+        "text": "男孩",
+        "call": "page14_3cn",
+        "voice": "page14_4cn"
+      },
+      {
+        "pic": "ipage15",
+        "text": "女孩",
+        "call": "page15_3cn",
+        "voice": "page15_4cn"
+      },
+      {
+        "pic": "ipage16",
+        "text": "婴儿",
+        "call": "page16_3cn",
+        "voice": "page16_4cn"
+      },
+      {
+        "pic": "ipage17",
+        "text": "儿童",
+        "call": "page17_3cn",
+        "voice": "page171_4cn"
+      },
+      {
+        "pic": "ipage18",
+        "text": "少年",
+        "call": "page18_3cn",
+        "voice": "page18_4cn"
+      },
+      {
+        "pic": "ipage19",
+        "text": "青年",
+        "call": "page19_3cn",
+        "voice": "page19_4cn"
+      },
+      {
+        "pic": "ipage20",
+        "text": "中年",
+        "call": "page20_3cn",
+        "voice": "page20_4cn"
+      },
+      {
+        "pic": "ipage21",
+        "text": "老年",
+        "call": "page21_3cn",
+        "voice": "page21_4cn"
+      }
+    ]
+  },
+  {
+    "subject": "人物",
+    "data": [
+      {
+        "pic": "ipage1",
+        "text": "爸爸",
+        "call": "page1_3cn",
+        "voice": "page1_4cn"
+      },
+      {
+        "pic": "ipage2",
+        "text": "妈妈",
+        "call": "page2_3cn",
+        "voice": "page2_4cn"
+      },
+      {
+        "pic": "ipage3",
+        "text": "姐姐",
+        "call": "page3_3cn",
+        "voice": "page3_4cn"
+      },
+      {
+        "pic": "ipage4",
+        "text": "妹妹",
+        "call": "page4_3cn",
+        "voice": "page4_4cn"
+      },
+      {
+        "pic": "ipage5",
+        "text": "哥哥",
+        "call": "page5_3cn",
+        "voice": "page5_4cn"
+      },
+      {
+        "pic": "ipage6",
+        "text": "弟弟",
+        "call": "page6_3cn",
+        "voice": "page6_4cn"
+      },
+      {
+        "pic": "ipage7",
+        "text": "爷爷",
+        "call": "page7_3cn",
+        "voice": "page7_4cn"
+      },
+      {
+        "pic": "ipage8",
+        "text": "奶奶",
+        "call": "page8_3cn",
+        "voice": "page8_4cn"
+      },
+      {
+        "pic": "ipage9",
+        "text": "叔叔",
+        "call": "page9_3cn",
+        "voice": "page9_4cn"
+      },
+      {
+        "pic": "ipage10",
+        "text": "阿姨",
+        "call": "page10_3cn",
+        "voice": "page10_4cn"
+      }
+    ]
+  }
+]

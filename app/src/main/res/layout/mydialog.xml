@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tipText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center|center_vertical|center_horizontal"
+        android:text="按住开始录音"
+        android:textSize="32sp" />
+
+    <Button
+        android:id="@+id/recBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="录制发音" />
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="恢复默认" />
+
+</LinearLayout>
